@@ -19,6 +19,7 @@ Você irá construir uma aplicação de front-end, que consiste em uma tela inic
 Como o desafio não é para um designer e sim para um dev, construimos um protótipo no Figma de como deve ficar a interface do front-end.
 * Preview de como ficar a interface (considerar as animações, utilizar o botão `Restart` no canto inferior direito para reiniciar as telas e visualizar as animações): https://www.figma.com/proto/mLHz2R6qqjSwq5aHywHwYq/Beeteller-%7C-Desafio-2023?page-id=841%3A1424&node-id=841%3A1429&viewport=-1380%2C177%2C0.76&scaling=min-zoom
 * Especificação da tela com as dimensões: https://www.figma.com/file/mLHz2R6qqjSwq5aHywHwYq/Beeteller-%7C-Desafio-2023?node-id=841%3A1424&t=l8XLJnjS2kp1sFK9-0
+* Senha de acesso: bee2023
 
 
 ### Informações da página:
