@@ -26,9 +26,9 @@ Como o desafio não é para um designer e sim para um dev, construimos um protó
 Os dados que serão inseridos na página devem ser consumidos utilizando as rotas abaixo.
 
 As APIs que você deve consumir estão abaixo:
-* GET https://beeteller.free.beeceptor.com/dashboard
-* GET https://beeteller.free.beeceptor.com/movement
-* GET https://beeteller.free.beeceptor.com/offers
+* GET https://apimocha.com/beeteller/dashboard
+* GET https://apimocha.com/beeteller/movement
+* GET https://apimocha.com/beeteller/offers
 
 De preferência, se você tiver domínio, esperamos ver o front-end em ReactJS + Typescript. Mas fique a vontade para utilizar outros frameworks se acreditar que o seu desempenho será melhor por isso.
 
